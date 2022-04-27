@@ -1,10 +1,8 @@
-# Machine Learning Bootcamp
-## Project Description
-I have implemented various Machine Learning algorithms from scratch in my project. It helps us understand the working principle behind these algorithms better when we code it from scratch rather than using libraries for that purpose. I have made classes for each algorithm containing all the necessary functions inside it. 
-## Technologies/libraries Used
-#### NumPy
-#### Pandas
-#### Matplotlib (for visualization)
+## Project Title
+### Machine Learning Bootcamp
+It is a project where I had to make a Machine Learning library consisting of all the basic algorithms.
+## Motivation for the project
+My motivation for the project was to understand the concept behind the working of basic ML algorithms.I have implemented various Machine Learning algorithms from scratch in my project. It helped me understand the working principle behind these algorithms better when I coded it from scratch rather than using libraries for that purpose.I have made classes for each algorithm containing all the necessary functions inside it.
 ## Features
 I have implemented the following algorithms:
 #### Linear Regression
@@ -35,5 +33,11 @@ The above shows the rmse and working of my neural networks polynomial regressor.
 ##### Support Vector Machine
 ![alt text](https://github.com/Thiruloksundar/thirurep1/blob/main/2022-04-20%20(9).png)
 The above shows my SVM Classifier trained on the EMNIST data but due to large size of data I couldn't run the predict function properly to obtain the accuracy of my classifier. I will improve this code in the next commit.
-## Status
+## Technologies/libraries Used
+NumPy                                                                                                                                                                   
+Pandas                                                                                                                                                                 
+Matplotlib (for visualization)
+## Build Status
 I have completed these algorithms successfully with a good accuracy. The performance of the models can be improved by further tuning the hyperparameters. The data provided was a large one so the training takes some amount of time and the size of the dataset also influenced the performance of the models.
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
